@@ -1,5 +1,5 @@
 //Ajustado del código de Ricardo Romo https://ricardoromo.co/2019/crea-una-servidor-de-sala-de-chat-en-c-servidor/
-//El siguiente cliente puede interactuar con otros clientes a través de un server no de forma local. Debes ingresar la IP destino y el puerto, así como el nombre del cliente 
+//El siguiente cliente puede interactuar con otros clientes a través de un server de forma local y remota. Debes ingresar la IP destino y el puerto, así como el nombre del cliente 
 
 #include <stdio.h>
 #include <stdlib.h>
